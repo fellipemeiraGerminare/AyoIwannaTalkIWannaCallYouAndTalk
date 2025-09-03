@@ -1,0 +1,1 @@
+print("I wanna talk, I wanna call you and talk; I wanna walk to your front door and knock After; I start my vehicle, drive to your city 'cause we live an hour apart; Land at your driveway and put it in park; Then do the third line of this verse; Then back to my house and we pack up our bikes; And we ride through the park, chase the sun")
